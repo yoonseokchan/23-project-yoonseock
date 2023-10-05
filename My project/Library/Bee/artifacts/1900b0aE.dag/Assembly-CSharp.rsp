@@ -332,11 +332,15 @@
 "Assets/Script/GenericContainer.cs"
 "Assets/Script/GenericContainerExample.cs"
 "Assets/Script/GenericSingleton.cs"
+"Assets/Script/GetData.cs"
 "Assets/Script/Item.cs"
 "Assets/Script/itemInfo.cs"
 "Assets/Script/SampleController.cs"
 "Assets/Script/Singleton.cs"
 "Assets/Script/Slot.cs"
+"Assets/Script/TowerStstem/EnemyController.cs"
+"Assets/Script/TowerStstem/EnemySpawner.cs"
+"Assets/Script/TowerStstem/MonsterPath.cs"
 -langversion:9.0
 
 /deterministic

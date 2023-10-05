@@ -7,7 +7,7 @@ public class GameController : MonoBehaviour
 {
     public Slot[] slots;
     private Vector3 _target;
-    private ItemInfo carryingitem;          //이동 시키고 있는 아이템 정보
+    private itemInfo carryingitem;          //이동 시키고 있는 아이템 정보
     private Dictionary<int, Slot> slotDictionary; //슬롯 정보값 관리하는 자료구조
 
     void Start()
